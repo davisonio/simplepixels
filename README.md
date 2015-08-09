@@ -4,6 +4,9 @@
 
 A 16x16 texture pack for Minetest.
 
+- **[Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?t=9008)**
+- **[GitHub Repository](https://github.com/CraigyDavi/SimplePixels)**
+
 ## More Screenshots
 
 ![Screenshot2](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot2.png)
