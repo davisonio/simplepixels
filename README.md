@@ -1,4 +1,4 @@
-# Simple Pixels
+# SimplePixels
 
 ![Screenshot1](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot1.png)
 
@@ -15,13 +15,14 @@ A 16x16 texture pack for Minetest.
 
 ## Installation
 
-[Download](https://github.com/CraigyDavi/SimplePixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the the folder into your minetest/textures folder.
+[Download](https://github.com/CraigyDavi/SimplePixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the folder into your minetest/textures folder.
 
 - You should use the latest version of Minetest and mods to ensure this texture pack uses all textures correctly.
 
 ## Contributors
 - [CraigyDavi](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=7059)
 - [durtective6](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2699)
+- [ThirdMonkey](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18431)
 
 ## License
 
