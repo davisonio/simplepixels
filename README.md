@@ -22,9 +22,22 @@ A nice, simple and pixely texture pack.
 
 ## Installation
 
-**Dependancies:** default
+**Supports:**
 
-**Supports:** stairs, stairsplus
+- boat
+- bones
+- bucket
+- default
+- doors
+- dye
+- farming
+- flowers
+- moreblocks
+- moretrees
+- screwdriver
+- technic
+- tnt
+- wool
 
 [Download](https://github.com/davisonio/simplepixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the folder into your minetest/textures folder.
 
