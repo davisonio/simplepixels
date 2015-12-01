@@ -1,36 +1,54 @@
 # SimplePixels
 
-![Screenshot1](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot1.png)
+> SimplePixels texture pack for [Minetest](http://www.minetest.net)
 
-A 16x16 texture pack for Minetest.
+<p align="center">
+<b><a href="#installation">Installation</a></b>
+·
+<b><a href="#todo">Todo</a></b>
+·
+<b><a href="#authors">Authors</a></b>
+·
+<b><a href="#credits">Credits</a></b>
+</p>
 
-- **[Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?t=9008)**
-- **[GitHub Repository](https://github.com/CraigyDavi/SimplePixels)**
+A nice, simple and pixely texture pack.
 
-## More Screenshots
+- [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?id=9008)
 
-![Screenshot2](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot2.png)
-![Screenshot3](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot3.png)
-![Screenshot4](https://raw.githubusercontent.com/CraigyDavi/SimplePixels/master/media/screenshot4.png)
+![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/1.png)
 
 ## Installation
 
-[Download](https://github.com/CraigyDavi/SimplePixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the folder into your minetest/textures folder.
+**Dependancies:** default
 
-- You should use the latest version of Minetest and mods to ensure this texture pack uses all textures correctly.
+**Supports:** stairs, stairsplus
 
-## Contributors
-- [CraigyDavi](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=7059)
-- [durtective6](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2699)
-- [ThirdMonkey](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18431)
+[Download](https://github.com/davisonio/simplepixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the folder into your minetest/textures folder.
 
-## License
+## Screenshots
 
-```
-Copyright (c) 2014-2015 Craig Davison <craig@davison.io>
+![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/2.png)
+![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/3.png)
+![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/4.png)
+![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/5.png)
 
-This work is licensed under the Creative Commons Attribution-ShareAlike
-4.0 International License. To view a copy of this license, visit
-http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to
-Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-```
+## Todo
+- [ ] add luacheck tests
+- [ ] add contributing.md
+
+## Authors
+
+**[Craig Davison](http://davison.io)**
+
+[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow)](https://github.com/davisonio)
+
+With many thanks to the [contributors](https://github.com/davisonio/simplepixels/graphs/contributors) :clap:
+
+For details on how to help, see the [Contributing Guidelines](https://github.com/davisonio/simplepixels/blob/master/CONTRIBUTING.md).
+
+## Credits
+
+Unless otherwise stated:
+
+- Copyright © 2014+ [Craig Davison](http://davison.io). Released under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
