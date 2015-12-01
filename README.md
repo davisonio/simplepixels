@@ -5,6 +5,8 @@
 <p align="center">
 <b><a href="#installation">Installation</a></b>
 ·
+<b><a href="#screenshots">Screenshots</a></b>
+·
 <b><a href="#todo">Todo</a></b>
 ·
 <b><a href="#authors">Authors</a></b>
