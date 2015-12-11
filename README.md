@@ -12,6 +12,10 @@
 <b><a href="#credits">Credits</a></b>
 </p>
 
+<p align="center">
+<a href="https://travis-ci.org/davisonio/simplepixels"><img src="https://img.shields.io/travis/davisonio/simplepixels.svg?style=flat-square"/></a>
+</p>
+
 A nice, simple and pixely texture pack.
 
 - [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?id=9008)
