@@ -1,63 +1,39 @@
-# SimplePixels
+# [SimplePixels](https://davison.io/minetest/simplepixels) :video_game:
 
 > SimplePixels texture pack for [Minetest](http://www.minetest.net)
 
 <p align="center">
-<b><a href="#installation">Installation</a></b>
-·
-<b><a href="#screenshots">Screenshots</a></b>
+<b><a href="#install">Install</a></b>
 ·
 <b><a href="#authors">Authors</a></b>
 ·
-<b><a href="#credits">Credits</a></b>
+<b><a href="#license--credits">License & Credits</a></b>
 </p>
 
 A nice, simple and pixely texture pack.
 
 - [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?id=9008)
 
-![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/1.png)
+![](https://davison.io/assets/img/minetest-simplepixels-screenshot1.png)
 
-## Installation
+## Install
 
-**Supports:**
+*Supports:* boat, bones, bucket, default, doors, dye, farming, flowers, moreblocks, moretrees, screwdriver, technic, tnt, wool
 
-- boat
-- bones
-- bucket
-- default
-- doors
-- dye
-- farming
-- flowers
-- moreblocks
-- moretrees
-- screwdriver
-- technic
-- tnt
-- wool
-
-[Download](https://github.com/davisonio/simplepixels/archive/master.zip) & unzip the texture pack, then rename it to "simplepixels" and move the folder into your minetest/textures folder.
-
-## Screenshots
-
-![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/2.png)
-![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/3.png)
-![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/4.png)
-![](https://raw.githubusercontent.com/wiki/davisonio/simplepixels/img/5.png)
+[Download](https://github.com/davisonio/simplepixels/archive/master.zip) & unzip the texture pack, rename it to "simplepixels" and move it into your `minetest/textures` folder.
 
 ## Authors
 
-**[Craig Davison](http://davison.io)**
+**[Craig Davison](https://davison.io)**
 
-[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter followers](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/simplepixels/graphs/contributors) :clap:
+With many thanks to the [contributors](https://github.com/davisonio/simplepixels/graphs/contributors). :clap:
 
-For details on how to help, see the [Contributing Guidelines](https://github.com/davisonio/simplepixels/blob/master/CONTRIBUTING.md).
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/simplepixles/blob/master/CONTRIBUTING.md). :raised_hands:
 
-## Credits
+## License & Credits
 
 Unless otherwise stated:
 
-- Copyright © 2014+ [Craig Davison](http://davison.io). Released under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+- Copyright © 2014+ [Craig Davison](https://davison.io). Released under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
