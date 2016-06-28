@@ -1,4 +1,4 @@
-# [SimplePixels](https://davison.io/minetest/simplepixels) :video_game:
+# [SimplePixels](https://davison.io/minetest/simplepixels) :video_game:  [![](https://img.shields.io/gitter/room/davisonio/simplepixels.svg)](https://gitter.im/davisonio/simplepixels)
 
 > SimplePixels texture pack for [Minetest](http://www.minetest.net)
 
@@ -18,7 +18,26 @@ A nice, simple and pixely texture pack.
 
 ## Install
 
-*Supports:* boat, bones, bucket, default, doors, dye, farming, flowers, moreblocks, moretrees, screwdriver, technic, tnt, wool
+###### Requirements
+
+- [Minetest](http://www.minetest.net) >= 0.4.10
+
+###### Supports
+
+- boat
+- bones
+- bucket
+- default
+- doors
+- dye
+- farming
+- flowers
+- moreblocks
+- moretrees
+- screwdriver
+- technic
+- tnt
+- wool
 
 [Download](https://github.com/davisonio/simplepixels/archive/master.zip) & unzip the texture pack, rename it to "simplepixels" and move it into your `minetest/textures` folder.
 
