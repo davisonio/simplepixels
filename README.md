@@ -15,7 +15,7 @@ A nice, simple and pixely texture pack.
 - [More Screenshots](https://davison.io/minetest/simplepixels/#screenshots)
 - [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?id=9008)
 
-![](https://davison.io/assets/img/minetest-simplepixels-screenshot1.png)
+![Template](Template.png)
 
 ## Install
 
